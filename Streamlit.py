@@ -791,11 +791,11 @@ def show_homepage():
             <h3 style='color:rgb(255, 255, 255);'>⚙️ Technical Description</h3>
             <div style='display: flex; align-items: center; margin: 10px 0;'>
                 <span style='font-size: 24px; margin-right: 10px;'>📝</span>
-                <span><strong>Manual Segmentation (Rules based)</strong> - Analyzes product descriptions</span>
+                <span><strong>Manual Segmentation (Rules based)</strong></span>
             </div>
             <div style='display: flex; align-items: center; margin: 10px 0;'>
                 <span style='font-size: 24px; margin-right: 10px;'>🧩</span>
-                <span><strong>Kmeans Clustering</strong> - Learns from user ratings</span>
+                <span><strong>Kmeans Clustering</strong></span>
             </div>
             <div style='display: flex; align-items: center; margin: 10px 0;'>
                 <span style='font-size: 24px; margin-right: 10px;'>🌳</span>
