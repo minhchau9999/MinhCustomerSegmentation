@@ -787,7 +787,7 @@ def show_homepage():
         
         # Technical Description with better formatting
     st.markdown("""
-        <div style='margin-top: 30px;'>
+        <div style='margin-top: 20px;'>
             <h3 style='color:rgb(255, 255, 255);'>⚙️ Technical Description</h3>
             <div style='display: flex; align-items: center; margin: 10px 0;'>
                 <span style='font-size: 24px; margin-right: 10px;'>📝</span>
