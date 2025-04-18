@@ -389,9 +389,9 @@ def show_mastersegments():
 
         st.metric(label="Total Customers", value=master_segment['Member_number'].count())
 
-        st.metric(label="R", value=f'{Remin} - {Remax}')
-        st.metric(label="F", value=f'{Frmin} - {Frmax}')
-        st.metric(label="M", value=f'{Momin} - {Momax}')
+        st.metric(label="Recency", value=f'{Remin} - {Remax}')
+        st.metric(label="Frequency", value=f'{Frmin} - {Frmax}')
+        st.metric(label="Monetary", value=f'{Momin} - {Momax}')
         
         # Add a small chart placeholder
         st.markdown("### Distributions")
