@@ -1,12 +1,9 @@
 import streamlit as st
 import pickle
 import pandas as pd
-from utils import get_recommendations_gensim, get_recommendations_surprise
-from PIL import Image
 import requests
 from io import BytesIO
 import re
-from bs4 import BeautifulSoup
 import sys
 import traceback
 import os
